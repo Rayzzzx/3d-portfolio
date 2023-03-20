@@ -6,7 +6,7 @@ const Profile = () => {
       <img
         className="object-cover h-[500px] w-[500px] mt-16 mr-16"
         src="public/head.jpeg"
-        alt="logo"
+        alt="profile"
       />
     </div>
   );
