@@ -26,7 +26,7 @@ const Hero = () => {
         </div>
       </div>
 
-      {/*<ComputersCanvas />*/}
+      <ComputersCanvas />
       {/*<img src="../assets/logo.jpeg" alt="logo" />*/}
       {/*<Profile />*/}
       {/*<div className="float-right">
