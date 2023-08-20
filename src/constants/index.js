@@ -30,6 +30,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  rdc,
   yinyang,
 } from "../assets";
 
@@ -128,7 +129,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Data Analyst Intern",
+    title: "Software Engineer Intern",
     company_name: "Globaleur",
     icon: globaleur,
     iconBg: "#383E56",
@@ -174,6 +175,14 @@ const experiences = [
       "Learned essential coding concepts, algorithms, data structures, and system design principles, and gained hands-on experience practicing mock interviews with industry professionals. ",
       "Developed strong communication and problem-solving skills and increased confidence in technical interviews.",
     ],
+  },
+  {
+    title: "Software Engineer Intern",
+    company_name: "Realtor.com",
+    icon: rdc,
+    iconBg: "#E6DEDD",
+    date: "Jun 2023 - Aug 2023",
+    points: [],
   },
 ];
 
