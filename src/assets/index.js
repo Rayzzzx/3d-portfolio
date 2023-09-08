@@ -39,6 +39,7 @@ import tripguide from "./tripguide.png";
 import bullet_journal from "./bullet_journal.png";
 import movie from "./movie.png";
 import yinyang from "./yinyang.png";
+import head from "./head.jpeg";
 
 export {
     logo,
@@ -79,4 +80,5 @@ export {
     link,
     yinyang,
     rdc,
+    head,
 };
